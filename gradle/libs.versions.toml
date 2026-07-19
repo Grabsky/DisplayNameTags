@@ -5,11 +5,11 @@ runPaper = "2.3.1"
 paper = "1.21.11-R0.1-SNAPSHOT"
 
 placeholderapi = "2.11.6"
-packetevents = "2.11.2"
+packetevents = "2.13.0"
 tab = "5.5.0"
 skinsrestorer = "15.6.4"
 caffeine = "3.2.3"
-entitylib = "3.0.3-SNAPSHOT"
+entitylib = "3.3.4-SNAPSHOT"
 bstats = "3.2.1"
 floodgate = "2.2.4-SNAPSHOT"
 
